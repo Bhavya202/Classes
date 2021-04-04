@@ -1,2 +1,2 @@
 # Classes
-Objects made using classes
+Objects made using classes.
